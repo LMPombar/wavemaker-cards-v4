@@ -4,29 +4,31 @@
 [![Issues](https://img.shields.io/github/issues/wavemakercards/wavemaker-cards-v4.svg?style=for-the-badge)](https://github.com/wavemakercards/wavemaker-cards-v4/issues)  
 [![MIT License](https://img.shields.io/github/license/wavemakercards/wavemaker-cards-v4.svg?style=for-the-badge)](https://github.com/wavemakercards/wavemaker-cards-v4/blob/master/LICENSE.txt)
 
-[![Logo](src/assets/logo.png)](https://github.com/wavemakercards/wavemaker-cards-v4)
+<a href="https://github.com/wavemakercards/wavemaker-cards-v4">
+  <img src="src/assets/logo.png" alt="Logo" width="200">
+</a>
 
 ### Wavemaker Cards
 
-Novel Writing Software   
-[**Latest Release (WIN/MAC/LINUX)**](https://github.com/wavemakercards/wavemaker-cards-v4/releases)   
+Novel Writing Software
+[**Latest Release (WIN/MAC/LINUX)**](https://github.com/wavemakercards/wavemaker-cards-v4/releases)
 [**Web Version**](https://wavemakercards.com)
 
 [View Demo](https://github.com/wavemakercards/wavemaker-cards-v4) · [Report Bug](https://github.com/wavemakercards/wavemaker-cards-v4/issues) · [Request Feature](https://github.com/wavemakercards/wavemaker-cards-v4/issues)
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Project setup](#project-setup)
-  - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
-  - [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  - [Installation](#installation)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+1. [Table of Contents](#table-of-contents)
+2. [About The Project](#about-the-project)
+   1. [Built With](#built-with)
+3. [Getting Started](#getting-started)
+4. [Project setup](#project-setup)
+   1. [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+   2. [Compiles and minifies for production](#compiles-and-minifies-for-production)
+   3. [Installation](#installation)
+5. [License](#license)
+6. [Contact](#contact)
+7. [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
