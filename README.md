@@ -16,17 +16,17 @@ Novel Writing Software 
 
 ## Table of Contents
 
-1.  [About The Project](#about-the-project)
-    - [Built With](#built-with)
-2.  [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-3.  [Usage](#usage)
-4.  [Roadmap](#roadmap)
-5.  [Contributing](#contributing)
-6.  [License](#license)
-7.  [Contact](#contact)
-8.  [Acknowledgements](#acknowledgements)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Project setup](#project-setup)
+  - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+  - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+  - [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -62,7 +62,7 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
